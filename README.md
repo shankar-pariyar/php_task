@@ -1,3 +1,3 @@
 # php_task
 
-* task_1 and task_2 conttains small php projects.
+* task_1 and task_2 contains small php projects.
