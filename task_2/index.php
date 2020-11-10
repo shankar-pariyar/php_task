@@ -39,7 +39,7 @@ include 'db/connection.php';
 		<form action="" method="POST" class="col-lg-6">
 			<label>Question <?php echo $lastQN+1; ?> </label>
 			<br>
-			<textarea name="que" rows="5" class="form-control" required></textarea>
+			<textarea name="que" rows="5" class="form-control" placeholder="Write question here" required></textarea>
 			<br>
 			<input type="text" name="op1" placeholder="Add Option 1" required class="form-control">
 			<br>
